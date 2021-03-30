@@ -6,7 +6,7 @@ terraform {
   backend "remote" {
     organization = "DEEP608v5"
     workspaces {
-      name = "<DEEP608v5-Lab-001>"
+      name = "DEEP608v5-Lab-001"
     }
   }
 }
